@@ -1,0 +1,9 @@
+ubuntu 12.04:
+  :roles:
+    - base
+
+  :networks:
+    - device_id: 0
+      mac_address: 00:50:56:01:04:FC
+      ip_address: 10.32.7.99
+  :default_gateway: 10.32.7.1
