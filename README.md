@@ -1,8 +1,6 @@
 # ServerSpec-Example
 Sample serverspec tests running on a remote server
 
-ServerSpec is used to test infrastructure.
-
 Pre-requisites:you should have ruby and bundler installed
 
 Checkout repository and change directory to ServerSpec-Example
